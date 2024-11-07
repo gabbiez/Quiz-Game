@@ -1,1 +1,1 @@
-to run open the x64 file and open quiz.cpp
+to run open the quiz folder then open the x64 folder and open quiz.cpp
