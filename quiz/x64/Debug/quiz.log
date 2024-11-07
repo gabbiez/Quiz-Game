@@ -1,0 +1,3 @@
+﻿  quiz.cpp
+C:\Users\ACER\source\repos\quiz\quiz\quiz.cpp(68,9): warning C4102: 'ops': unreferenced label
+  quiz.vcxproj -> C:\Users\ACER\source\repos\quiz\x64\Debug\quiz.exe
